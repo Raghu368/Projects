@@ -14,6 +14,7 @@ Here's a brief overview of the projects you'll find here:
 
 Low-Power High-Performance Priority Encoder: Focuses on VLSI design principles, demonstrating significant power and transistor count reduction through innovative architectural design.
 
+ADS-B Experiment: Real-Time Aircraft Tracking: A practical application of wireless communication, involving SDR setup, signal decoding, and real-time data visualization.
+
 Traffic Signal Controller Verification using SystemVerilog: Highlights expertise in digital design verification, including the development of comprehensive testbenches for robust system validation.
 
-ADS-B Experiment: Real-Time Aircraft Tracking: A practical application of wireless communication, involving SDR setup, signal decoding, and real-time data visualization.
